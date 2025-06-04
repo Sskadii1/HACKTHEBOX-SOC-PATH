@@ -1,0 +1,2 @@
+# HACKTHEBOX-SOC-PATH
+SOC path academy
