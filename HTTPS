@@ -1,0 +1,2 @@
+Do request của HTTP khi gửi và được phân tích không an toàn(dễ bị MITM). HTTPS được tạo ra khắc chế những điểm yếu của HTTP. 
+
